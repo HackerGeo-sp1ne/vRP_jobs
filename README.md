@@ -1,11 +1,12 @@
 # jk_jobs
+# converted from esx by HackerG
 # Discord: Ice Heart#1826
 
 # do not rename the folder
 
-NUI JOBS FOR ESX
+NUI JOBS FOR vRP
 
-start esx_jk_jobs in server.cfg
+start vRP_jobs in server.cfg
 
 
 
