@@ -1,6 +1,5 @@
-# jk_jobs
 # converted from esx by HackerG
-# Discord: Ice Heart#1826
+# Credits: Ice Heart#1826
 
 # do not rename the folder
 
