@@ -7,6 +7,4 @@ NUI JOBS FOR vRP
 
 start vRP_jobs in server.cfg
 
-
-
-
+https://cdn.discordapp.com/attachments/538313543225704450/571790027689033740/unknown.png
