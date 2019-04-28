@@ -2,7 +2,7 @@ $(function() {
   $(document).keyup(function(e) {
       if (e.keyCode == 27) {
           $(".container-fluid").fadeOut();
-          $.post('http://vRP_jobs/fechar', JSON.stringify({}));
+          $.post('http://vrp_jobs/fechar', JSON.stringify({}));
       }
   });
   $(document).ready(function() {
@@ -16,57 +16,57 @@ $(function() {
       });
 
       $("#1").click(function() {
-          $.post('http://vRP_jobs/1', JSON.stringify({}));
+          $.post('http://vrp_jobs/1', JSON.stringify({}));
           2
 
       });
 
       $("#2").click(function() {
-          $.post('http://vRP_jobs/2', JSON.stringify({}));
+          $.post('http://vrp_jobs/2', JSON.stringify({}));
           2
 
       });
 
       $("#3").click(function() {
-          $.post('http://vRP_jobs/3', JSON.stringify({}));
+          $.post('http://vrp_jobs/3', JSON.stringify({}));
           2
 
       });
 
       $("#4").click(function() {
-          $.post('http://vRP_jobs/4', JSON.stringify({}));
+          $.post('http://vrp_jobs/4', JSON.stringify({}));
           2
 
       });
 
       $("#5").click(function() {
-        $.post('http://vRP_jobs/5', JSON.stringify({}));
+        $.post('http://vrp_jobs/5', JSON.stringify({}));
         2
 
     });
     $("#6").click(function() {
-        $.post('http://vRP_jobs/6', JSON.stringify({}));
+        $.post('http://vrp_jobs/6', JSON.stringify({}));
         2
 
     });
     $("#7").click(function() {
-        $.post('http://vRP_jobs/7', JSON.stringify({}));
+        $.post('http://vrp_jobs/7', JSON.stringify({}));
         2
 
     });
     $("#8").click(function() {
-        $.post('http://vRP_jobs/8', JSON.stringify({}));
+        $.post('http://vrp_jobs/8', JSON.stringify({}));
         2
 
     });
 
     $("#9").click(function() {
-        $.post('http://vRP_jobs/9', JSON.stringify({}));
+        $.post('http://vrp_jobs/9', JSON.stringify({}));
         2
 
     });
     $("#10").click(function() {
-        $.post('http://vRP_jobs/10', JSON.stringify({}));
+        $.post('http://vrp_jobs/10', JSON.stringify({}));
         2
 
     });
